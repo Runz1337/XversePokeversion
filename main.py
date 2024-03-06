@@ -399,5 +399,5 @@ bot = ClusterBot(command_prefix="!")
 # bot.load_extension("cogs.mongo")
 
 if __name__ == "__main__":
-    bot.run(os.getenv("tkn"))
+    bot.run("ODM0NTAwNDE3MDE0MDcxMzU2.Gyr5C2.1yDJDM2BGhVRf77PIF05VI7ubTyAV1HNXfgsOA")
     
